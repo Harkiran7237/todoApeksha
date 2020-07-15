@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+h1{
+  color:rgb(114, 231, 225);
+  font-style: oblique;
+  font-size: xxx-large;
+  font-stretch: ultra-expanded;
+ font-family: cursive;
+}
